@@ -1,0 +1,15 @@
+[/]
+foreground-color='rgb(255,255,255)'
+visible-name='aesthetically pleasing'
+palette=['rgb(0,0,0)', 'rgb(204,0,0)', 'rgb(57,188,53)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(224,224,224)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(222,101,33)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(255,255,255)']
+default-size-columns=120
+default-size-rows=40
+cursor-shape='underline'
+use-system-font=false
+use-theme-colors=false
+use-transparent-background=true
+font='Monospace 10'
+use-theme-transparency=false
+bold-color-same-as-fg=true
+background-color='rgb(0,43,54)'
+background-transparency-percent=10
